@@ -7,7 +7,7 @@ function NavBar() {
     <Navbar bg="dark" variant="dark">
       <Container>
         <Link to="/products">
-          <Navbar.Brand>Chicken Shop</Navbar.Brand>
+          <Navbar.Brand>COFFEE SHOP</Navbar.Brand>
         </Link>
         {/* <Nav className="me-auto">
           <Nav.Link>

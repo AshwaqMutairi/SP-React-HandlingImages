@@ -9,11 +9,11 @@ function NavBar() {
         <Link to="/products">
           <Navbar.Brand>COFFEE SHOP</Navbar.Brand>
         </Link>
-        {/* <Nav className="me-auto">
+        <Nav className="me-auto">
           <Nav.Link>
             <Link to="/products">Products</Link>
           </Nav.Link>
-        </Nav> */}
+        </Nav>
       </Container>
     </Navbar>
   );
